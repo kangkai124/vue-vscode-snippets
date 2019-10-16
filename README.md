@@ -1,6 +1,4 @@
-# Vue VSCode Snippets
-
-![vue-snippet-hero](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-snippet-hero.gif)
+# Vue VSCode Snippets modified by kk
 
 ## Description
 
@@ -9,8 +7,6 @@ These snippets were built to supercharge my workflow in the most seamless manner
 This repo was built particularly for real world use. It doesn't catalogue the API definitions, and it's not a kitchen sink approach. Rather, it focuses on developer ergonomics from the point of Vue of real world use. Included are the pieces I personally get sick of typing, have to keep looking up, or forget to consider while developing that I make more use of when they're at my fingertips.
 
 _Current version: Vue2_
-
-![SnippetDemo](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/SnippetDemo.gif)
 
 ## Installation
 
@@ -34,7 +30,7 @@ You can enable tab completion (recommended) by opening `Code > Preferences > Set
 
 | Snippet     | Purpose                                    |
 | ----------- | ------------------------------------------ |
-| `vbase`     | Single file component base with SCSS       |
+| `vbase`     | Single file component base with LESS       |
 | `vbase-css` | Single file component base with CSS        |
 | `vbase-pcss`| Single file component base with PostCSS    |
 | `vbase-ts`  | Single file component base with Typescript |
